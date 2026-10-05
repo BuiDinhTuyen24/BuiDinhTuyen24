@@ -9,7 +9,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./pixel-avatar.svg" width="344" alt="Bui Dinh Tuyen — pixel avatar" /></td>
+<td valign="top"><img src="./pixel-avatar.svg" width="344" alt="Bùi Đình Tuyển — pixel avatar" /></td>
 <td valign="top"><img src="./wordmark.svg" width="486" alt="BDT — 3D ASCII wordmark" /></td>
 </tr>
 </table>
@@ -29,9 +29,10 @@
 
 <h3><code>bdt@github ~ $ ./links.sh</code></h3>
 
-<p><b>Bui Dinh Tuyen</b></p>
+<p><b>Bùi Đình Tuyển</b> · Ha Noi</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-BuiDinhTuyen24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BuiDinhTuyen24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bùi_Đình_Tuyển-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C4%91inh-tuy%E1%BB%83n-b%C3%B9i-02a8763b7)
 
 <br>
 
